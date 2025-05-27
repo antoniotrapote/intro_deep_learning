@@ -131,3 +131,6 @@ dmypy.json
 
 # Pycharm
 .idea
+
+# Maintenance scripts
+update_colab_github_links.py
