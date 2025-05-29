@@ -134,3 +134,6 @@ dmypy.json
 
 # Maintenance scripts
 update_colab_github_links.py
+
+# Maintenance scripts
+update_colab_github_links.py
